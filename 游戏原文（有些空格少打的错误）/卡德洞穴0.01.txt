@@ -1,0 +1,232 @@
+一.Ten things you should do when you start to play
+
+1.use the alternate diagonal movement keys if you dont have a numpad
+you can use shift+arrow keys to move diagonally and Ctrl + Shift + arrow keys to force attack diagonally,
+If you want to use the classic VI style "hjklnm" binds instead,
+press 'Esc’ then 'k' to get to the key mapping menu.Then press'F2' to switch keysets.
+
+2.Hotkey your activated abilities.
+Press 'a' to view your activated abilities on the Manage Abilities menu.
+To bind an ability to a key, scroll down to the ability you wish to bind,
+press 'Enter' , then press the key to which you wish
+to bind the ability.
+
+3.Scroll through your charactor menus
+Press 'x' to view your character sheet, 
+press 'i' to view your inventory
+press 'e' to view your equipment,
+press 'q' to view your quests
+press 'k' to view the tinkering menu,
+and press 'p' to view your skills.
+You may scroll through these menus by pressing 7'and '9' on the numpad
+(or your NW and NE keys if you are using a different keyset).
+
+4.Look at things by pressing 'L'.
+Press 'l' and scroll around to look at things.
+Looking at something can tell you a great deal about it. 
+For example,looking at a creature will tell you the creature's name，physical description,approximate health,equipment worn, your chance of defeating it in combat,and its attitude toward you.
+
+5.interact with most objects by pressing 'space'
+open doors,talk to people,pick up items: all by pressing 'spcae'
+
+6.press 'alt' for some additional information about the area.
+Pressing 'Alt' will bring up an overlay with additional information about the map.Staircases appear magenta, friendly creatures appear green,
+hostile creatures appear red,chests appear yellow,items appear white.
+
+7.find a sidebar view you like
+Press '*' to scroll thorugh sidebar views or press '/' to hide the sidebar.
+
+8.Get acquainted with the common key mappings.
+'_'or'<' to walk up stairs,'+' or '>' to walk down stairs,'`' to rest,until healed, 
+backspace to move to a local point of interest. press 'Esc' then'k' to view a a list of the key mappings;
+scroll down to a mapping annd press 'enter' to remap it!
+
+9.get acquainted with the weapon and armor stats.
+weapons have a penetration value and a damage value
+(for example,→4 ♥1d4).The penetration value represents the armor value
+that this weapon will usually penetrate with ease.the damage value represents the amount of damage this weapon deals per penetration.
+Pieces of armor have an armor value and a dodge value. 
+The armor value is added to your character's armor value which represents how well protected you are from physical attacks that hit you. 
+Likewise，the dodge value is added to your character's dodge value which represents how likely you are to be hit by physical attacks.
+For both values,the higher the number, the better.  (See Attributes and Weapons and Armor).
+
+10.speak with Tam,dromad merchant.
+speak with the merchant Tam in the southeastern corner of Joppa. 
+press 'Tab' to trade with him. you'll be able to stock up on basic provisions,weapons,armor,and ammunition.
+
+二.attributes
+1.Strength
+your strength score determines how much melee damage you do(by improving your armor penetration),your ability to resist forced movement,and your carry capacity.
+
+2.Agility
+your agility score determines your accuracy with both melee and ranged weapons and your ability to dodge attacks.
+
+3.Toughness
+Your toughness score determines your number of hit points, your hit point regeneration rate，and your ability to resist poison and disease.
+
+4.Intelligence
+Your intelligence score determines your number of skill points and your ability to examine artifacts.
+
+5.Willpower
+Your willpower score modifies the cooldowns of your activated abilities,determines your ability to resist mental attacks,and modifies your hit point regeneration rate.
+
+6.Ego
+Your ego score determines the potency of your mental mutations, your ability to haggle with merchants,and your ability to dominate the wills of other living creatures.
+
+7.Armor Value and Dodge Value(AV / DV)
+Your armor value (AV) is a measurement of how well protected you areagainst physical attacks that hit you.
+The higher your score,the less likely an opponent's attack will do severe damage to you. Most characters start with a base AV score of 0.
+
+Your dodge value (DV) is a measurement of how likely you are to be hit by physical attacks. The higher your score, the less likely an opponent's attack will hit you.
+Your DV is modified by your Agility modifier. Mostcharacters start with a base DV of 6.
+
+8.Mental Armor (MA)
+Your mental armor (MA） is a measurement of how well protected you are against mental attacks,
+much as your armor value is a measurement of how well protected you are from physical attacks.
+The higher your score， the less likely an opponent 's mental attack will have a severe effect on you.
+Your MA is modified by your Willpower modifier. 
+Most characters start with a base MA of 4.
+
+9.Quickness(QN)
+Your quickness score is a measurement of how quickly you perform each and every action you take.
+Your base quickness score is 100. Note that thereare very few ways to augment this score.
+
+10.Movement Speed (MS)
+Your movement speed is a measurement of how quickly you walk or fly.
+Your base movement speed is 100.
+
+11.Temperature (T)
+Your temperature is a measurement of how hot or cold you are.
+If you areCold, your quickness score is reduced by half.
+If you are Frozen, you areunable to take physical actions.
+If you are Flaming, you take heat damage every turn until you reduce your temperature.
+
+12.Acid Resist
+Your acid resist is a measurement of how much acid damage you ablate.
+Your base acid resist score is 0. At 100,you are immune to acid damage.
+
+13.Cold Resist
+Your cold resist is a measurement of how much cold damage you ablate and how insulated you are from effects that reduce your temperature.
+Your base coldresist score is 0.At 100, you are immune to cold damage and your temperature cannot be reduced.
+
+14.Electrical Resist
+Your electrical resist is a measurement of how much
+electrical damage you ablate and how resistive you are to electric current.
+Your base electrical resist score is 0. At 100, you are immune to electrical damage and you do not conduct electricity.
+
+15.Heat Resist
+Your heat resist is a measurement of how much heat damage you ablate and how insulated you are from effects that increase your temperature.
+Your base heat resist score is 0. At 100, you are immune to heat damage and your temperature cannot be increased.
+
+三.Skills
+Your skills represent the abilities you have learned in yourlife. Each skill tree has several skills associated with it.
+You begin with several skills determined by your caste or calling.
+You may purchase other skills by spending skill points which you earn when you gain a level (the higher your intelligence score,the more skill points you earn).
+
+To purchase a new skill, you must first purchase the entry skill in itsskill tree. You must meet any attribute or power requirements of the skill you are trying to purchase. It is possible to begin with certain skillswithout having its entry skill if your caste or calling has granted it to you.
+
+Skills often grant you activated abilities.Once you may access your new activated ability from the Manage Abilities menu ('a')
+
+四.Mutations and Defects
+Mutations are special biological powers gifted to the denizens of Qud --
+true kin from the outer arcologies do not possess mutations. 
+There are two types of mutations:physical and mental. 
+Each mutation has a mutation scoreassociated with it. The scores of your physical mutations and the cooldownsof activated abilities granted by your physical mutations are static.
+On the other hand, the scores of your mental mutations are modified by your Ego modifier and the cooldowns of abilities granted by your mental mutations are modulated by 5% for each point or Willpower you possess above or below 16.
+
+Most characters begin with mutation scores of 1. You earn a mutation point when you gain a new level which you may spend to augment the score of oneof your mutations by 1.
+The mutation score of none of your mutations may exceed 1 plus your character level divided by 2. Additionally,mutations may only be augmented by mutation points up to a maximum score of 10,
+though your mental mutations may exceed this score if your Ego further augments them beyond 10.
+
+Alternatively, you may spend 4 mutation points to choose a new mutation from three randomly selected mutations.
+The mutation you choose begins with a score of 1. If you are a chimera,you are offered a choice of physical mutations, 
+if you are an esper, you are offered mental mutations,otherwise you are offered three completely random mutations.
+Mutations often grant you activated abilities.
+Once you gain a mutation,you may access your new activated ability from the Manage Abilities menu ('a').
+Defects are mutations with primarily negative effects.Certain mutants begin with a single defect.There is no score associated with defects.
+
+五.Artifacts
+Artifacts are items so technologically complex that few of Qud's denizensunderstand them.An unidentified artifact will appear to you as a"Weird Artifact". 
+You may examine an artifact to try to identify it: If youare successful，you will narrow down the possibilities of that artifact's function (what was once a "club", for example, you may now identify as a "rifle"). 
+Eventually you may completely identify the artifact. Each time you attempt to identify something and fail, however, there is a smallchance you will break it.
+Your chance of successfully identifying an artifact is based on your intelligence score.
+
+六.Tonics
+Tonics are chemical concoctions that enhance your mental and physical statsin a variety of ways.
+They are artifacts,and so you must successfully identify them to understand what they do. 
+Ingesting one tonic while under the effects of another is dangerous;
+for each new tonic you ingest, there isa greater and greater chance that the tonics will react adversely to each other.
+The higher your Toughness score is, the greater the chance that youwill be able to ingest multiple tonics without incurring undesired effects.
+
+Tonics produce more potent effects in true kin than they do in mutated humans.
+Also, as the body chemistry of mutants is inherently unstable,there is a 5% chance that a tonic ingested by a mutant will instead producean undesired effect.
+
+Tonics may be concocted with the Tinker skill.In addition to bits,concocting a tonic often requires a natural ingredient.
+
+
+七.Weapons and Armor
+
+1.Weapons
+Every weapon has a penetration value and a damage value
+(for example, →4, ♥1d4). The penetration value of melee weapons is relatedto your strength score，though the value is capped based on the material of the weapon('l'ook at a weapon to view its penetration cap). 
+Swords and daggers have penetration values equal to your strength score. 
+Axes have penetration values equal to 1 plus your strength score because they are highly penetrating.
+Cudgels have penetration values equal to 2 plus your strength score because they are rattling and less dependent on your opponent's armor.
+Missile weapons have static penetration values that do notchange based on your strength score. 
+Weapons may modify other statistics; 'l'ook at a weapon to fully determine what it does.
+
+2.Armor
+Most pieces of armor have an armor value and a dodge value
+(for example, 🔹14 ⚪4)) that augment your own 蓝菱形AV and 小圈DV (see Attributes).Pieces of armor may modify other statistics; 'l'ook at a piece of armor to fully determine what it does.
+
+八.Combat
+Melee Combat
+Melee combat is combat between two adjacent opponents with standard melee weapons such as swords，daggers，axes，and clubs.
+To attack a hostile adjacent opponent,simply move in the direction of the opponent,To attacksomething else,such as a non-hostile opponent or a wall, hold 'control' and move in the direction in which you wish to attack.
+when you make a melee attack against a target, the following sequence of events occurs:
+
+1.Determine whether or not you hit the target.
+Your to-hit roll is 1d20 plus your agility modifier plus any bonuses youreceive from your weapon or skill powers. If this roll exceeds your opponent's dodge value (DV), then you hit. 
+An empty circle icon over your target indicates that your attack missed.
+
+2,Determine whether a shield block takes place.
+If the target has a shield equipped, they have a base 25% chance to block with it，increasing with skill.
+A successful block adds the shield's armor value (AV) to the target's AV for this attack.
+
+3. Determine how severely your attack penetrates your target's armor .
+Each weapon has a penetration value (→4, for example). This value represents the armor value (AV) that your weapon will usually penetrate with ease.
+If your weapon's penetration yalue far exceeds yourr target's AV,your weapon will likely penetrate several times. 
+Each time your weapon penetrates your target's armor，your target is dealt damage equal to yourweapon's damage value (♥1d4, for example).
+A filled circle icon over your target indicates that your attack hit but failed to penetrate your target's armor.
+A heart icon indicates that your attack hit and penetrated your target's armor .
+
+4.Determine if multiple attacks are made.
+There is a 15% chance that you make an additional attack with your secondary hand.
+Characters with multiple limbs may make additional attacks beyond this.
+
+Missile Combat
+Missile combat is combat between two opponents with missile weapons such as bows，pistols,and rifles.
+To make a missile attack,press 'f' to aim your weapon, then 'f' again to fire.
+when you make a missile attack,the following sequence of events occurs:
+
+1.Determine the trajectory of your missile.
+How far a missile is likely to veer from its projected path is determined by your agility score and the weapon's accuracy.
+
+2. Hit the first medium-sized or larger object along the missile's trajectory.
+
+3.Determine how severely the missile penetrates your target's armor .
+This is resolved in the same way as a melee attack.
+
+4.Determine if multiple attacks are made.
+Certain powers allow you to fire multiple missiles with certain missile weapons.
+
+If you are engaged in melee combat with more than one hostile opponent,
+there is a 50% chance that each missile attack you make goes wild (veers 45 degrees to the left or right).
+
+
+九.Action Costs
+The amount of time it takes to do something is assessed in terms of anaction cost.
+Most tasks have an action cost of 1000.
+Your Quickness increases the rate at which you recover this cost,enabling you to actmore often than slower creatures.
+
+Some skills，mutations,and equipment enable you to take specific actionsat reduced or zero action cost.
